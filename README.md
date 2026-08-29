@@ -18,5 +18,5 @@ Data Visualization
 
 
 This project helped me improve my skills in data analysis, dashboard design, and transforming raw data into meaningful insights.
-I'm continuously learning and building projects to strengthen my skills in Data Analytics and Artificial Intelligence. Looking forward to learning more and creating better projects! 🚀
-#PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #DataAnalysis #BCA #LearningByDoing #DashboardDesign #RealEstateAnalysis
+I'm continuously learning and building projects to strengthen my skills in Data Analytics and Artificial Intelligence. Looking forward to learning more and creating better projects! 
+🚀#PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #DataAnalysis #BCA #LearningByDoing #DashboardDesign #RealEstateAnalysis
